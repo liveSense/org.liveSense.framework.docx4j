@@ -25,7 +25,8 @@
 		<version>1.0.4-SNAPSHOT</version>
 		<relativePath>..</relativePath>
 	</parent>
-	<properties>
+    <version>1.0.4-SNAPSHOT</version>
+    <properties>
 		<docx4j.version>2.1.5</docx4j.version>
 	</properties>
 	<scm>
